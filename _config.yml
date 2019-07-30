@@ -1,2 +1,3 @@
 name: UK Fetish Alliance
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
