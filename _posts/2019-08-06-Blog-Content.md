@@ -1,6 +1,6 @@
 ---
 layout: Post
-Title: What about Fetish at Pride?
+Title: "What about Fetish at Pride?"
 Date: 2019-08-02
 ---
 
