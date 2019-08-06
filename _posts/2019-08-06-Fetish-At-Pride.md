@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 Title: "What about Fetish at Pride?"
 Date: 2019-08-02
 ---
